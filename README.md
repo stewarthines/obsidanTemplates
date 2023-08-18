@@ -2,7 +2,10 @@
 A repo of Obsidian templates and CSS Snippets. 
 ***
 ## How to use
-I am syncing this repo to my templates folder. 
+I am syncing this repo to my templates folder. I access them by accessing the command palette and typing in the name of the template I want. 
+
+![example](https://github.com/stewarthines/obsidanTemplates/assets/599115/589f9b59-d4f1-47c6-a166-d667ade173e7)
+
 
 ## Template Explanations 
 ### Note Templates:
