@@ -1,0 +1,112 @@
+/* ====================================== */
+/* ==== Stewarts' Obsidian Overrides ==== */
+/* ====================================== */
+/* 01. Tables */
+/* 02. Callouts */
+/* ============= 01. Tables ============= */
+/* ====================================== */
+table, table.markdown-rendered{
+    width: 100%;
+}
+
+.theme-light table.markdown-rendered  tr th,
+.theme-light table tr th{
+	background: #efefef !important;
+	font-weight: 700 !important;
+}
+
+.theme-dark table.markdown-rendered  tr th,
+.theme-dark table tr th{
+	background: #21242C !important;
+	font-weight: 700 !important;
+}
+
+
+table.markdown-rendered  tr th:empty,
+table  tr th:empty {
+	display: none;
+}
+	table.kindle-table{
+	width: 100%;
+	height: auto;
+	margin: 0;
+	padding: 0;
+	border: none;
+	border-collapse: collapse;
+	border-spacing: 0;
+	border-color: inherit;
+	vertical-align: inherit;
+	text-align: left;
+	font-weight: inherit;
+	-webkit-border-horizontal-spacing: 0;
+	-webkit-border-vertical-spacing: 0;
+	background: none;
+	border: 1px solid #DBDBDC;
+}
+table.kindle-table td{
+	padding: 8px;
+}
+table.kindle-table td:nth-child(1){
+	background: #efefef;
+	border-right: 1px solid #DBDBDC;
+	font-weight:bold;
+	/* max-width: 5%; */
+}	
+table.kindle-table tr{
+	border-bottom: 1px solid #DBDBDC;
+}
+table.kindle-table tr:last-child{
+	border-bottom: none;
+}
+/* =============== /Tables ============== */
+/* ====================================== */
+/* ============ 02. Callouts ============ */
+/* ====================================== */
+/* Sticky Note Callout */
+.callout[data-callout="sticky"] {
+	--callout-color: 133, 63, 18;
+	--callout-icon: lucide-bookmark;
+	color: #1e293b;
+	background:#fef9c3 !important;
+	
+}
+
+/* Source Callout */
+.theme-dark .callout[data-callout="source-read"]{
+	--callout-color: 219, 219, 220;
+	--callout-icon: lucide-book-open;
+	background:rgb(56, 58, 66) !important; 
+	
+}
+
+.theme-light .callout[data-callout="source-read"]{
+	--callout-color: 56, 58, 66 !important;
+	--callout-icon: lucide-book-open;
+	background:rgb(219, 219, 220) !important; 
+}
+
+.theme-light .callout[data-callout="source-memory"] {
+	--callout-color: 56, 58, 66 !important;
+	--callout-icon: lucide-brain-circuit;
+	background:rgb(219, 219, 220) !important; 
+}
+.theme-dark .callout[data-callout="source-memory"] {
+	--callout-color: 219, 219, 220;
+	--callout-icon: lucide-brain-circuit;
+	background:rgb(56, 58, 66) !important; 
+	
+}
+
+/* Red Letter Highlight */
+.theme-light .red-letter{
+	color: #9f1239;	
+}
+
+.theme-dark . red-letter{
+	color: #fecdd3;
+}
+
+/* ============== /Callouts ============= */
+/* ========= 03. Text Overrides ========= */
+/* ====================================== */
+
