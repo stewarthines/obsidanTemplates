@@ -1,0 +1,5 @@
+---
+author: []
+tags:
+  - quote
+---
