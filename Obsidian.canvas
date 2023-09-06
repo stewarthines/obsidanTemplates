@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"group","id":"b07723ff424ff9c1","x":-340,"y":-540,"width":290,"height":260,"label":"📂 Journal"},
+		{"type":"text","text":"📂 Month","id":"08a0c246ea8afe78","x":-280,"y":-440,"width":210,"height":60},
+		{"type":"text","text":"📂 Year","id":"b8e74ed00afebe8e","x":-320,"y":-520,"width":250,"height":60},
+		{"type":"text","text":"📝 Day","id":"3f7be44030c12f90","x":-230,"y":-360,"width":160,"height":60},
+		{"type":"text","text":"📂 Year","id":"1aa5b663177f6cbb","x":-280,"y":-60,"width":230,"height":60},
+		{"type":"text","text":"📂 Articles","id":"39eaec13745df7f1","x":-300,"y":-140,"width":250,"height":60},
+		{"type":"text","text":"📂 Books","id":"e270e31a4a8750e9","x":-300,"y":120,"width":250,"height":60},
+		{"type":"text","text":"📂 0 Kindle Sync","id":"da1eea66ad0fc5fe","x":-300,"y":200,"width":250,"height":60},
+		{"type":"text","text":"📝 Article Note\n","id":"3335c985a060ae5c","x":-230,"y":20,"width":180,"height":60},
+		{"type":"text","text":"📂 Author","id":"4e99b8aa7479db09","x":-260,"y":280,"width":210,"height":60},
+		{"type":"text","text":"### 📝 Book Title\nThis note serves at the primary book note. Use it to organize chapter notes. This way, not all the notes for a single book are crammed into one note. \nQuote Chapter Notes when possible. \nThis note uses the [[Books]] template\n\n","id":"543bd5459e667a8a","x":-230,"y":460,"width":250,"height":380},
+		{"type":"text","text":"📂 Title","id":"00c6b2d023a57157","x":-260,"y":380,"width":210,"height":60},
+		{"type":"text","text":"### 📝 Chapter\nThis note is specific to the chapter. It should be referenced by a book note. ","id":"b4da0e1d842abf5a","x":-230,"y":860,"width":250,"height":240}
+	],
+	"edges":[]
+}

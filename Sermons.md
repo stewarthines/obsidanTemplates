@@ -1,10 +1,12 @@
 ---
+series: []
+"Date:": 
+"Source:": 
 tags:
   - sermon
   - Religion
   - LifeChurch
-"Date:": 
-"Source:":
+  - Christianity
 ---
 
 # Notes

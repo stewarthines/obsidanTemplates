@@ -1,4 +1,6 @@
 ---
+aliases: []
+theme: []
 tags:
   - Bible
   - Christianity
